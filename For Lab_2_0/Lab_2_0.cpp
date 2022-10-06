@@ -6,7 +6,7 @@
 
 
 
-#include <iostream>
+/*#include <iostream>
 #include <cmath>
 
 using namespace std;
@@ -29,4 +29,15 @@ int main()
 	system("pause");
 
 	return 0;
+}*/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	cout << "hello" << endl;
 }
+
+
